@@ -1,0 +1,22 @@
+# Flask backend
+
+flask
+flask-cors
+
+# Core ML/DL
+
+torch
+torchvision
+scikit-learn
+
+# Data & Image Handling
+
+numpy
+Pillow
+opencv-python-headless
+
+# Notebook/Script Utilities
+
+matplotlib
+tqdm
+kagglehub
