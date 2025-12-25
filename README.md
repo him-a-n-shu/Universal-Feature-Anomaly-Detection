@@ -1,4 +1,4 @@
-# Industrial Anomaly Detection System
+# Universal Feature Anomaly Detection (UFAD)
 
 This project is a full-stack application for industrial anomaly detection in images. It uses a two-stage approach:
 
